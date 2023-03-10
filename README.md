@@ -1,3 +1,5 @@
+This bot has been made 90% with chatGPT 🗿
+
 # How to use 👀
 
 - First change the public and private key in the variable
@@ -16,7 +18,7 @@
   
   
   
-# Donate 🗿
+# Donate 🥹
 
   0xA10204eA94fB5074Eb908209E5b626Dad3538743
   
