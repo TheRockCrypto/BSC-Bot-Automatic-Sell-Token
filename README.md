@@ -2,7 +2,7 @@
 
 - First change the public and private key in the variable
 - Set the token address 
-- <install python3 on your computer and call 
+- Install python3 on your computer and call 
   `python3 sell_bot_bsc.py`
   
 # How it works 🏋🏻‍♂️
