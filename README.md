@@ -8,7 +8,7 @@
 # How it works 🏋🏻‍♂️
   
 - Script check every second if a pair exist BNB/TOKEN on pancakeswap
-- When liquidity is detected the script approve the token and sell all token immedialty
+- When liquidity is detected the script approve the token and sell all token immediately
 - At the end script give you the transaction id
 
 
