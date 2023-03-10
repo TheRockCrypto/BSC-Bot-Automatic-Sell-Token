@@ -79,7 +79,7 @@ while True:
         try:
             signed_tx = w3.eth.account.sign_transaction(tx_hash, private_key=PRIVATE_KEY)
             tx_receipt = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
-            time.sleep(5)
+            time.sleep(3)
             print('🟩🟩🟩🟩🟩🟩 Yesss token has been approved 🍆')
         except:
             print("🟥🟥🟥🟥🟥🟥 Error: Can't approve token blow for our friend 😢 ")
